@@ -1,1 +1,1 @@
-# Homework-1-Refactor
+Homework 1 - Refactor the Horiseon Web Site 
