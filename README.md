@@ -33,5 +33,8 @@ THEN I find a concise, descriptive title
 7. I fixed broken links on the page
 8. I added comments within the code to all changes made in both HTML and CSS so others can clearly see what changes were made
 ```
+## Site URL
+https://chuck2076.github.io/Homework-1-Refactor/
+
 ## Screenshot
-git addgit 
+(./Assets/HoriseonScreencapture.png)
