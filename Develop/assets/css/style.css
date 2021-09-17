@@ -69,7 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* Changed <div> class to <main> */
+/* Changed <div> element to <main> making <main> a class */
 main {
     width: 75%;
     display: inline-block;
@@ -191,14 +191,14 @@ to fit with order of the HTML for better referencing */
     margin: 10px auto;
     max-width: 150px;
 }
-
-.footer {
+/* Changed <div class="footer"> element to <footer> making <footer> a class */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
