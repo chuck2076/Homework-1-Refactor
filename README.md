@@ -37,4 +37,4 @@ THEN I find a concise, descriptive title
 https://chuck2076.github.io/Homework-1-Refactor/
 
 ## Screenshot
-(https://github.com/chuck2076/Homework-1-Refactor/blob/22e99220a8695b7b325cad9a83fca531940e97f1/Assets/HoriseonScreencapture.png)
+[Horiseon-image](https://raw.githubusercontent.com/chuck2076/Homework-1-Refactor/22e99220a8695b7b325cad9a83fca531940e97f1/Assets/HoriseonScreencapture.png)
