@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 8. I added comments within the code to all changes made in both HTML and CSS so others can clearly see what changes were made
 ```
 ## Site URL
-https://chuck2076.github.io/Homework-1-Refactor/
+https://chuck2076.github.io/Web-Site-Refactor
 
 ## Screenshot
 [Horiseon-image](https://raw.githubusercontent.com/chuck2076/Homework-1-Refactor/22e99220a8695b7b325cad9a83fca531940e97f1/Assets/HoriseonScreencapture.png)
