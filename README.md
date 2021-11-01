@@ -1,4 +1,4 @@
-Homework 1 - Refactor the Horiseon Web Site 
+Refactor the Horiseon Web Site 
 
 ## User Story
 
